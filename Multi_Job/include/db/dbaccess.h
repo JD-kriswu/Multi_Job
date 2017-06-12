@@ -7,7 +7,7 @@
 #include <vector>
 #include <map>
 #include <time.h>
-
+#include <stdio.h>
 #include <mysql.h>
 
 namespace qm {

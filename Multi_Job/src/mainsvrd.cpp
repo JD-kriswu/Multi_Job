@@ -9,8 +9,10 @@
 #include <errno.h>
 #include "tlog.h"
 #include "master.h"
-
-
+#include <unistd.h>
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/stat.h>
 int giExitFlag = 0;
 
 
