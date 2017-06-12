@@ -1,0 +1,6 @@
+[2017-06-10 19:31:49.57.207][pid:20897][mainsvrd.cpp:40][main] ERR: usage : ./Multi_Job  liveNbaPayBonus.xml [-d]
+
+[2017-06-10 19:36:40.797.816][pid:21658][mainsvrd.cpp:40][main] ERR: usage : ./Multi_Job  liveNbaPayBonus.xml [-d]
+
+[2017-06-10 19:41:58.564.936][pid:22259][mainsvrd.cpp:71][main] MSG: ./Multi_Job begin Start.
+[2017-06-10 19:53:29.821.928][pid:23945][mainsvrd.cpp:71][main] MSG: ./Multi_Job begin Start.

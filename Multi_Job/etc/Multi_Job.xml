@@ -1,0 +1,11 @@
+<root>
+  <Database>
+    <IP>10.198.30.107</IP>
+    <Port>9017</Port>
+    <User>trade</User>
+    <Password>trade88777</Password>
+    <DB>trade</DB>
+    <Character>utf8</Character>
+  </Database>
+  <ProcessNumber>10</ProcessNumber>
+</root>
